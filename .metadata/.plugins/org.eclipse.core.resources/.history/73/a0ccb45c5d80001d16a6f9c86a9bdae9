@@ -1,0 +1,6 @@
+package com.anon.learnspringframework;
+
+@Configuration
+public class Configuration {
+
+}

@@ -1,0 +1,23 @@
+package com.anon.learnspringframework;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.anon.learnspringframework.game.GameRunner;
+import com.anon.learnspringframework.game.GamingConsole;
+import com.anon.learnspringframework.game.MarioGame;
+import com.anon.learnspringframework.game.PacmanGame;
+import com.anon.learnspringframework.game.SuperContraGame;
+
+public class AppGamingBasicJava {
+
+	public static void main(String[] args) {
+		
+		try(var context = new AnnotationConfigApplicationContext(GamingConfiguration.class)){
+			
+			context.getBean(GamingConsole.class).up();
+			
+			context.getBean(GameRunner.class).run();
+		}
+	}
+
+}

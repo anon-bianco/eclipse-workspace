@@ -1,0 +1,52 @@
+package com.anon.learnspringframework.examples.a1;
+
+
+import java.util.Arrays;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.anon.learnspringframework.game.GameRunner;
+import com.anon.learnspringframework.game.GamingConsole;
+import com.anon.learnspringframework.game.MarioGame;
+import com.anon.learnspringframework.game.PacmanGame;
+import com.anon.learnspringframework.game.SuperContraGame;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.stereotype.Component;
+
+import com.anon.learnspringframework.game.GameRunner;
+import com.anon.learnspringframework.game.GamingConsole;
+import com.anon.learnspringframework.game.PacmanGame;
+
+@Component
+class YourBusinessClass{
+	
+}
+
+@Component
+class Dependency1{
+	
+}
+
+@Component
+class Dependency2{
+	
+}
+
+
+@Configuration
+@ComponentScan
+public class DepInjectionLauncherApplication {
+	
+
+	public static void main(String[] args) {
+		
+		try(var context	= new AnnotationConfigApplicationContext(DepInjectionLauncherApplication.class)){
+			
+			Arrays.stream(context.getBeanDefinitionNames()).forEach(System.out::println);
+		}
+
+	}
+
+}

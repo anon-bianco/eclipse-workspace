@@ -1,0 +1,6 @@
+package com.anon.learnspringframework;
+
+@HelloWorldConfiguration
+public class HelloWorldConfiguration {
+
+}
