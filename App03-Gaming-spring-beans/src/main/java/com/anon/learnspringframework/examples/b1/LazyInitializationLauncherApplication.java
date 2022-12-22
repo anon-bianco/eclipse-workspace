@@ -38,7 +38,7 @@ public class LazyInitializationLauncherApplication {
 		
 		try(var context	= new AnnotationConfigApplicationContext(LazyInitializationLauncherApplication.class)){
 			
-//			context.getBean(ClassB.class).run();
+			context.getBean(ClassB.class).run();
 			
 		}
 

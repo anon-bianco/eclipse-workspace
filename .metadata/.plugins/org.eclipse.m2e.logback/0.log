@@ -370,3 +370,12 @@
 2022-12-22 18:17:07,087 [Worker-40: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-22 18:17:07,092 [Worker-40: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-22 18:17:07,096 [Worker-40: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\eclipse-workspace\App03-Gaming-spring-beans\src\test\resources
+2022-12-22 18:37:54,796 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-22 18:37:54,824 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-22 18:37:54,827 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\eclipse-workspace\App03-Gaming-spring-beans\src\test\resources
+2022-12-22 18:38:27,243 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-22 18:38:27,250 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-22 18:38:27,252 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\eclipse-workspace\App03-Gaming-spring-beans\src\test\resources
+2022-12-22 19:12:06,039 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-22 19:12:06,051 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-22 19:12:06,053 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\eclipse-workspace\App03-Gaming-spring-beans\src\test\resources
