@@ -1,0 +1,5 @@
+package com.anon.learnspringboot;
+
+public @interface RestController {
+
+}

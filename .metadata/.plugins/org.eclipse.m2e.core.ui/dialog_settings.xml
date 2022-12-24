@@ -66,6 +66,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\anonh\eclipse-workspace\learn-spring-boot"/>
+			<item value="C:\Users\anonh\Documents\Spring - in28Minutes\learn-spring-boot"/>
 			<item value="C:\Users\anonh\Documents\Spring - in28Minutes\learn-spring-framework"/>
 		</list>
 		<list key="projectNameTemplate">
