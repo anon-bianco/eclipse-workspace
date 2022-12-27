@@ -1185,3 +1185,63 @@ org.eclipse.core.runtime.CoreException: Launch configuration EX01 references clo
 2022-12-27 10:36:28,088 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-27 10:36:28,089 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-27 10:36:28,091 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:41:42,337 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-27 10:41:42,338 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:41:42,340 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:42:18,950 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-27 10:42:18,951 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:42:18,955 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:43:10,647 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-27 10:43:10,647 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:43:10,650 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:45:11,139 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:45:11,144 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 10:45:11,148 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:50:57,382 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:50:57,387 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 10:50:57,390 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:52:00,123 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:52:00,127 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 10:52:00,130 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:52:58,022 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:52:58,027 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 10:52:58,029 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:55:05,134 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:55:05,141 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 10:55:05,144 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:55:49,605 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:55:49,610 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 10:55:49,612 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 10:57:45,160 [Worker-58: Launching ToDoSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 10:57:45,169 [Worker-58: Launching ToDoSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 10:57:45,172 [Worker-58: Launching ToDoSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 11:27:04,210 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 11:27:04,218 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 11:27:04,221 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 11:30:11,597 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-27 11:30:11,597 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 11:30:11,600 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 11:30:45,881 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 11:30:45,887 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 11:30:45,889 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 11:31:26,537 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 11:31:26,543 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 11:31:26,545 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 11:31:42,467 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 11:31:42,474 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 11:31:42,476 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 11:32:15,683 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 11:32:15,688 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 11:32:15,691 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 11:39:09,042 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 11:39:09,048 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 11:39:09,050 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 11:46:24,291 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 11:46:24,297 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 11:46:24,299 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 12:17:07,890 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 12:17:07,906 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 12:17:07,909 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 12:17:09,621 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 12:17:09,639 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-27 12:17:09,643 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources

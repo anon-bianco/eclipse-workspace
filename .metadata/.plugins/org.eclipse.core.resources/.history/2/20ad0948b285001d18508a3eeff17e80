@@ -1,0 +1,13 @@
+package com.anon.ToDoSpringBoot.login;
+
+public class AuthenticationService {
+	
+	public boolean authenticate(String username, String password) {
+		
+		boolean isValidUserName = username.equalsIgnoreCase("anonh7@gmail.com");
+		boolean isValidPassword = password.equalsIgnoreCase("anonH");
+		
+		return isValidUserName && isValidPassword;
+	}
+
+}
