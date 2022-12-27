@@ -1,0 +1,14 @@
+<% taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
+<html>
+<head>
+<title>Notes app</title>
+</head>
+<body>
+<div>Welcome to the notes app ${name}</div>
+<div>Your Todos are ${todos}</div>
+<table>
+<c:forEach items="${todos}" var="todo"></c:forEach>
+</table>
+</body>
+</html>
