@@ -1167,3 +1167,9 @@ org.eclipse.core.runtime.CoreException: Launch configuration EX01 references clo
 2022-12-26 18:59:24,108 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-26 18:59:24,112 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
 2022-12-27 09:38:43,384 [Worker-38: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-27 09:43:54,717 [Worker-40: Launching ToDoSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 09:43:54,735 [Worker-40: Launching ToDoSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-27 09:43:54,740 [Worker-40: Launching ToDoSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-27 09:46:54,574 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-27 09:46:54,596 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-27 09:46:54,599 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
