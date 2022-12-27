@@ -1,0 +1,7 @@
+<html>
+<head>Say Hello Page</head>
+<body>
+<h1>Welcome to our website</h1>
+<h3>Powered by Spring Boot</h3>
+</body>
+</html>

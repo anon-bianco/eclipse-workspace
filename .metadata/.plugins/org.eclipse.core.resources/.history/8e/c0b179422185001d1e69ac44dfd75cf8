@@ -1,0 +1,17 @@
+package com.anon.ToDoSpringBoot.login;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+@Controller
+public class LoginController {
+	
+	@RequestMapping("login")
+	public String goToLoginPage(@RequestParam String name) {
+		
+		System.out.println("The param is " + name);
+		return "login";
+	}
+
+}
