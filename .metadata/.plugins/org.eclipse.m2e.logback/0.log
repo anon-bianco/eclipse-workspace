@@ -1537,3 +1537,12 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:j
 2022-12-29 11:56:53,144 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-29 11:56:53,153 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
 2022-12-29 11:56:53,157 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-29 12:26:21,885 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 12:26:21,894 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-29 12:26:21,897 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-29 12:28:30,356 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 12:28:30,364 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-29 12:28:30,367 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-29 13:33:13,795 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 13:33:13,801 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-29 13:33:13,803 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
