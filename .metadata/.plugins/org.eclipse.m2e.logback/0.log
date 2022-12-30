@@ -1593,3 +1593,34 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:j
 2022-12-29 19:58:19,303 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-29 19:58:19,304 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-29 19:58:19,306 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:36:58,512 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-30 07:37:02,815 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:37:02,832 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-30 07:37:02,843 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:42:26,486 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:42:26,503 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-30 07:42:26,509 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:42:42,736 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:42:42,745 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-30 07:42:42,749 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:44:50,663 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-30 07:44:50,663 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:44:50,668 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:48:54,888 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-30 07:48:54,889 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:48:54,894 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:49:52,222 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-30 07:49:52,222 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:49:52,226 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:53:33,692 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:53:33,700 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-30 07:53:33,705 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:55:42,091 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:55:42,102 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-30 07:55:42,107 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:56:47,954 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-30 07:56:47,954 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:56:47,958 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-30 07:57:49,039 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-30 07:57:49,040 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-30 07:57:49,043 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
