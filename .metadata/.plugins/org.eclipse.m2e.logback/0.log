@@ -1790,3 +1790,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:j
 2022-12-30 11:10:07,217 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-30 11:10:07,217 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-30 11:10:07,221 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
+2022-12-31 09:44:38,013 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-31 09:44:43,080 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-31 09:44:43,100 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-31 09:44:43,107 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anonh\Documents\Spring - in28Minutes\ToDo-SpringBoot\src\test\resources
