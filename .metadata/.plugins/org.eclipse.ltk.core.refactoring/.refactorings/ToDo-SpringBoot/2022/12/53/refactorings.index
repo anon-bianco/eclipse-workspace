@@ -13,3 +13,9 @@
 1672461577807	Copy file
 1672463660825	Delete element
 1672464018519	Delete element
+1672474130524	Extract method 'getLoggedInUsername'
+1672474541276	Extract local variable 'username'
+1672474553412	Extract local variable 'password'
+1672474621919	Extract method 'createNewUser'
+1672474653787	Inline local variable 'username'
+1672474661757	Inline local variable 'password'
