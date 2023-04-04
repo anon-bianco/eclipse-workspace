@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>Notes app</title>
-</head>
-<body>
-<div>Welcome to the notes app ${name}</div>
-<div>Your Todos are ${todos}</div>
-</body>
-</html>

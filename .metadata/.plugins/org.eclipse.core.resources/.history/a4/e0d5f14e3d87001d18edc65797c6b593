@@ -1,7 +1,0 @@
-<html>
-<head><title>Login page</title></head>
-<body>
-<h1>Welcome to TM To Do Application, ${name}</h1>
-<div><a href="list-todos">Manage </a>your todos</div>
-</body>
-</html>

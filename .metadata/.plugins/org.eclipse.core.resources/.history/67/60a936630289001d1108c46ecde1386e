@@ -1,5 +1,0 @@
-package com.anon.ToDoSpringBoot.ToDo;
-
-public interface TodoRepository {
-
-}
