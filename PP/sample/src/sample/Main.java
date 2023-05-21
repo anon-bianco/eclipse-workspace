@@ -1,29 +1,36 @@
 package sample;
 
-class Abc{
-	private int a;
-
-	public int getA() {
-		return a;
-	}
-
-	public void setA(int c) {
-		a = c;
-	}
-	
-	
-	
-}
 
 public class Main {
 
 	public static void main(String[] args) {
 		
-		Abc obj = new Abc();
-		
-		obj.setA(50);
-		
-		System.out.println(obj.getA());
+		import java.util.Scanner;
+		public class MaxOfAnArray {
+			public static void main(String[] args)
+			{
+				int i;
+				int a[]=new int[5];
+				int m=0;
+				Scanner sc=new Scanner(System.in);
+				System.out.println("Enter array values");
+				for(i=0;i<5;i++)
+				{
+					a[i]=sc.nextInt();
+				}
+				for(i=0;i<5;i++)
+				{
+					if(m<a[i])
+					{
+					m=a[i];
+					}
+					
+				}
+				System.out.println(m);
+			}
+
+		}
+
 
 	}
 
