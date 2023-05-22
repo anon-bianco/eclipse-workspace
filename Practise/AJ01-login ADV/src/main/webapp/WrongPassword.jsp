@@ -25,11 +25,11 @@
   	<div><h1>Please check your username and password.<br>
 		 It doesn't match with our database.</h1></div>
     <div class="emoji">&#128577;</div>
-   
-  </body>
-   <a 
+    <a 
 
     href="Login.jsp">
       <button>Retry</button>
     </a>
+  </body>
+  
 </html>

@@ -152,9 +152,9 @@
 				<div class="col-sm-4 col-sm-offset-1">
 					<div class="login-form"><!--login form-->
 						<h2>Login to your account</h2>
-						<form action="#">
-							<input type="text" placeholder="Name" />
-							<input type="email" placeholder="Email Address" />
+						<form action="LoginServlet" method="post">
+							<input type="text" placeholder="Username" name="n4" required/>
+							<input type="password" placeholder="Password" name="n5" required/>
 							<span>
 								<input type="checkbox" class="checkbox"> 
 								Keep me signed in
@@ -169,10 +169,10 @@
 				<div class="col-sm-4">
 					<div class="signup-form"><!--sign up form-->
 						<h2>New User Signup!</h2>
-						<form action="#">
-							<input type="text" placeholder="Name"/>
-							<input type="email" placeholder="Email Address"/>
-							<input type="password" placeholder="Password"/>
+						<form action="RegistrationServlet" method="post">
+							<input type="text" placeholder="Name" name="n1" required/>
+							<input type="email" placeholder="Email Address" name="n2" required/>
+							<input type="password" placeholder="Password" name="n3" required/>
 							<button type="submit" class="btn btn-default">Signup</button>
 						</form>
 					</div><!--/sign up form-->

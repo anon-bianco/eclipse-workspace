@@ -28,5 +28,10 @@
   <body>
     <div class="emoji">&#128522;</div>
     <h1>Password updated successfully</h1>
+     <a 
+
+    href="Login.jsp">
+      <button>Login</button>
+    </a>
   </body>
 </html>
