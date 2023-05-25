@@ -42,6 +42,15 @@ public class Main {
 		System.out.println(s8.charAt(6));
 		System.out.println(s8.substring(6));
 		
+		System.out.println("***************Char Array****************");
+		
+		String s9 = "hello";
+		char[] c1 = s9.toCharArray();
+		
+		for(char c2:c1){
+			System.out.println(c2);
+		}
+		
 	}
 
 }
